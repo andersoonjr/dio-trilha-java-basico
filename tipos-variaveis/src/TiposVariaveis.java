@@ -11,7 +11,7 @@ public class TiposVariaveis {
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short)numeroNormal; //sem o casting daria erro. Casting refere-se à conversão de um tipo de dado para outro
+        short numeroCurto2 = (short) numeroNormal; //sem o casting daria erro. Casting refere-se à conversão de um tipo de dado para outro
 
         //Constantes
         final double VALOR_DE_PI = 3.14;
